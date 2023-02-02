@@ -1,4 +1,4 @@
-# infoteste
+# Marvel-API front-end
 
 ## Project setup
 ```
